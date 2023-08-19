@@ -1,0 +1,57 @@
+body{
+    background-color:rgba(173, 180, 109, 0.274)
+}
+.li1{
+    color: rgb(58, 48, 48);
+}
+.li2{
+    color:rgb(58, 48, 48);
+}
+.li3{
+    color: rgb(58, 48, 48);
+}
+.p1{
+    color: rgb(58, 48, 48);
+}
+.p2{
+    color: rgb(58, 48, 48);
+}
+.p3{
+    color: rgb(58, 48, 48);
+}
+.p4{
+    color: rgb(58, 48, 48);
+}
+.p5{
+    color: rgb(58, 48, 48);
+}
+.p6{
+    color: rgb(58, 48, 48);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+.h31{
+    color: rgb(67, 99, 64);
+}
+.h32{
+    color: rgb(67, 99, 64);
+}
+.h33{
+    color: rgb(67, 99, 64);
+}
+.link{
+    color: rgb(68, 0, 255);
+    text-decoration: none;
+}
+.foto1{
+    display: block;
+    margin: 10px;
+    border: 5px solid rgb(240, 146, 146);
+    border-radius: 10px ;
+    width: 400px ;
+    height: 200px;
+}
